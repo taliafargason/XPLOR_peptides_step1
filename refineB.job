@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --partition=long
+#SBATCH --job-name=refine
+#SBATCH --error=refine.err
+#SBATCH --ntasks=32
+#SBATCH --time=150:00:00
+#SBATCH --mem-per-cpu=8192
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=tfarg@uab.edu
+
+source ~/.bashrc
+xplor -smp $SLURM_CPUS_ON_NODE -py RefineF.py -o outB.txt

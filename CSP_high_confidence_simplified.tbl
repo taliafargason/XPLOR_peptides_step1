@@ -1,0 +1,54 @@
+assign
+   (segid A and name H* N* O* and resid 220)
+   (segid A and name H* N* O* and resid 45)
+12 12 0
+
+assign
+   (segid A and name H* N* O* and resid 220)
+   (segid A and name H* N* O* and resid 80)
+12 12 0
+
+assign
+   (segid A and name H* N* O* and resid 220)
+   (segid A and name H* N* O* and resid 88)
+12 12 0
+
+assign
+   (segid A and name H* N* O* and resid 220)
+   (segid A and name H* N* O* and resid 154)
+12 12 0
+
+assign
+   (segid A and name H* N* O* and resid 91:109)
+   (segid A and name H* N* O* and resid 18)
+4.0 2.8 1.0
+
+assign
+   (segid A and name H* N* O* and resid 91:196)
+   (segid A and name H* N* O* and resid 63)
+4.0 2.8 1.0
+
+assign
+   (segid A and name H* N* O* and resid 91:196)
+   (segid A and name H* N* O* and resid 65)
+4.0 2.8 1.0
+
+assign
+   (segid A and name H* N* O* and resid 91:196)
+   (segid A and name H* N* O* and resid 88)
+4.0 2.8 1.0
+
+assign
+   (segid A and name H* N* O* and resid 110-120)
+   (segid A and name H* N* O* and resid 150)
+4.0 2.8 1.0
+
+assign
+   (segid A and name H* N* O* and resid 197-248)
+   (segid A and name H* N* O* and resid 42)
+4.0 2.8 1.0
+
+assign
+   (segid A and name H* N* O* and resid 197-248)
+   (segid A and name H* N* O* and resid 119)
+4.0 2.8 1.0
